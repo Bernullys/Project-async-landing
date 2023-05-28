@@ -1,0 +1,27 @@
+{
+  "name": "project-async-landing",
+  "version": "1.0.0",
+  "description": "curse project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernullys/Project-async-landing.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promise",
+    "try",
+    "catch",
+    "API"
+  ],
+  "author": "BADR <bernardoantoniod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bernullys/Project-async-landing/issues"
+  },
+  "homepage": "https://github.com/Bernullys/Project-async-landing#readme"
+}
